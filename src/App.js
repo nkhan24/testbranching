@@ -7,6 +7,7 @@ function App() {
   <>
    <h1>People Directory</h1>
    <MemberContainer />
+   <MemberContainer />
   </>
   );
 }
