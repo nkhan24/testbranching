@@ -5,7 +5,7 @@ import MemberContainer from './containers/MemberContainer';
 function App() {
   return (
   <>
-   <h1>People Directory</h1>
+   <h1>People Directory Testing the new branching method</h1>
    <MemberContainer />
    <MemberContainer />
   </>
